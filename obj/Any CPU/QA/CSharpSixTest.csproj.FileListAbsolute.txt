@@ -1,0 +1,1 @@
+C:\dev\mdr\CSharpSixTest\CSharpSixTest\obj\Any CPU\QA\CSharpSixTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Dev\MDR\CSharpSixTest\CSharpSixTest\bin\Debug\CSharpSixTest.exe.config
+C:\Dev\MDR\CSharpSixTest\CSharpSixTest\bin\Debug\CSharpSixTest.exe
+C:\Dev\MDR\CSharpSixTest\CSharpSixTest\bin\Debug\CSharpSixTest.pdb
+C:\Dev\MDR\CSharpSixTest\CSharpSixTest\obj\Debug\CSharpSixTest.csprojResolveAssemblyReference.cache
+C:\Dev\MDR\CSharpSixTest\CSharpSixTest\obj\Debug\CSharpSixTest.exe
+C:\Dev\MDR\CSharpSixTest\CSharpSixTest\obj\Debug\CSharpSixTest.pdb
+C:\dev\mdr\CSharpSixTest\obj\Debug\CSharpSixTest.csprojResolveAssemblyReference.cache
+C:\dev\mdr\CSharpSixTest\obj\Debug\CSharpSixTest.exe
+C:\dev\mdr\CSharpSixTest\obj\Debug\CSharpSixTest.pdb
